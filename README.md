@@ -1,4 +1,4 @@
-1. Introduction.
+###Introduction ###
 
 This software library implements the Parametric Pseudo-Bound Cuts algorithm in the 
 Pseudo-Bound Optimization framework as is described in
@@ -11,7 +11,7 @@ If you use this software for research purposes, please cite
 the aforementioned paper in any resulting publication.
 For any technical issue concerning the code, you can contact Meng Tang. (mtang73@csd.uwo.ca)
    
-2. How to compile the code
+###How to compile the code ###
 
 You can open solution file PBO.sln with Visual Studio 2010. Add where you store the openSEG 
 library as an include directory. Part of the code also depends on Matlab library. So set include directory
@@ -20,7 +20,7 @@ and library directory as follows if necessary and compile under Release or Debug
 D:\Program Files (x86)\MATLAB\R2009a\extern\include (replace with your Matlab path)
 D:\Program Files (x86)\MATLAB\R2009a\extern\lib\win32\microsoft (replace with your Matlab path)
 
-3. How to use the code for specific applications
+###How to use the code for specific applications ###
 
 The code can be used for the following applications discussed in the paper:
 
